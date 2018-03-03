@@ -1,4 +1,4 @@
-
+package tetetete;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;
@@ -9,16 +9,11 @@ import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-	
 
-public class GmailTest {
+public class gmailtest {
 	
 public static void main(String[] args) {
 		
-	
-	/////////
-	//hrhsrthsrth
-	
 		File file = new File("C:/chromedriver.exe");
 		System.setProperty("webdriver.chrome.driver", file.getAbsolutePath());
 		
@@ -33,11 +28,7 @@ public static void main(String[] args) {
 		element.sendKeys("bill44@gmail.com");
 		driver1.findElement(By.id("identifierNext")).click();
 		
-		/////
 		
-		////
-		
-		///
 		/*
 		
 
@@ -62,10 +53,19 @@ public static void main(String[] args) {
 		
 		 */
 	
-	
-}
-	
-}
 
+
+public class hehehe {
+
+	
+		
+	}
+		
+	}
+
+	
+	
+	
+}
 
 
